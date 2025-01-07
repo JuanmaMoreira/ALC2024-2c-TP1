@@ -48,8 +48,7 @@ pip install numpy pandas matplotlib jupyter
 El proyecto sigue esta estructura:
 
 ```
-ALC2024-2c-TP1/
-|-- grupo_19_TP1.ipynb   # Notebook principal del trabajo práctico
-|-- README.md            # Descripción del proyecto
+- consignas introductorias para presentar los conceptos teóricos a utulizar (consignas 1-6)
+- análisis de un caso real entre dos países (consigna 7)
 ```
 
