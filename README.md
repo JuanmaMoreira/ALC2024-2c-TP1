@@ -11,6 +11,8 @@ El archivo principal del repositorio es un Jupyter notebook:
   - Desarrollo de los cálculos y análisis requeridos.
   - Visualizaciones y resultados.
 
+- **`grupo_19_TP1.ipynb`**: Contiene funciones auxiliares implementadas en Python.
+
 ## Requisitos
 
 Para ejecutar este proyecto, necesitas:
