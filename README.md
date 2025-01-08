@@ -24,7 +24,7 @@ Para ejecutar este proyecto, necesitas:
    - `matplotlib`
    - `jupyter`
 
-Puedes instalar las dependencias usando:
+En caso de ser necesario, instalar las dependencias usando:
 ```bash
 pip install numpy pandas matplotlib jupyter
 ```
