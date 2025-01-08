@@ -6,12 +6,13 @@ Este repositorio contiene el desarrollo del Trabajo Práctico 1 correspondiente 
 
 El archivo principal del repositorio es un Jupyter notebook:
 
-- **`grupo_19_TP1.ipynb`**: Contiene el desarrollo del trabajo práctico, incluyendo:
+- **`template-alumnos\grupo_19_TP1.ipynb`**: Contiene el desarrollo del trabajo práctico, incluyendo:
   - Introducción teórica sobre matrices de insumo-producto.
   - Desarrollo de los cálculos y análisis requeridos.
   - Visualizaciones y resultados.
 
-- **`grupo_19_TP1.ipynb`**: Contiene funciones auxiliares implementadas en Python.
+- **`tempalte-alumnos\funciones.py`**: Contiene funciones auxiliares implementadas en Python.
+- **`TP1_ALC_2024_v2.pdf`**: Contiene las consignas del trabajo práctico.
 
 ## Requisitos
 
@@ -29,25 +30,22 @@ Puedes instalar las dependencias usando:
 pip install numpy pandas matplotlib jupyter
 ```
 
-## Ejecución
+## Pasos para ejecutar el proyecyo:
 
-1. Clona este repositorio:
+1. Clonar rl repositorio:
    ```bash
    git clone https://github.com/JuanmaMoreira/ALC2024-2c-TP1.git
    ```
-2. Accede a la carpeta del proyecto:
-   ```bash
-   cd ALC2024-2c-TP1
-   ```
-3. Inicia Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-4. Abre el archivo `grupo_19_TP1.ipynb` y ejecuta las celdas para explorar el contenido.
+2. Iniciar Jupyter Notebook.
+   
+3. Acceder a la carpeta del proyecto "ALC2024-2c-TP1"
+   
+4. Abrir el archivo `grupo_19_TP1.ipynb` y ejecutar las celdas para explorar el contenido.
+
 
 ## Estructura del Proyecto
 
-El proyecto sigue esta estructura:
+El proyecto sigue la siguiente estructura:
 
 ```
 - consignas introductorias para presentar los conceptos teóricos a utulizar (consignas 1-6)
