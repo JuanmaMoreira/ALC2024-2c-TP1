@@ -31,7 +31,7 @@ pip install numpy pandas matplotlib jupyter
 
 ## Pasos para ejecutar el proyecyo:
 
-1. Clonar rl repositorio:
+1. Clonar el repositorio:
    ```bash
    git clone https://github.com/JuanmaMoreira/ALC2024-2c-TP1.git
    ```
